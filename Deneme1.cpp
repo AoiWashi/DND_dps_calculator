@@ -6,7 +6,8 @@
 
 using namespace std;
 
-//Want an input from the user and check if it is correct, if it is return the input.
+// Want an input from the user and check if it is correct, if it is return the input.
+// Git repo is created
 string dmg_dice_check(string qoute) {
 	bool condition = 1;
 	string dmg_dice;
